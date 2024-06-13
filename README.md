@@ -37,11 +37,6 @@ In this assignment, a mobile robot starting from (0,0) detected the four markers
 
 [![Watch the video](https://github.com/isacg5/assignment1_EXP_rep/blob/main/resources/sim_robot.png)](https://youtu.be/M5vqtRnRwP8)
 
-<p align="justify">
-  Watch the video using the real robot here
-</p>
-
-[![Watch the video](https://github.com/isacg5/assignment1_EXP_rep/blob/main/resources/real_robot.png)](https://youtu.be/mfQO0WytDmY)
 
 
 
